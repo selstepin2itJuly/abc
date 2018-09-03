@@ -5,6 +5,8 @@
     <classes>
      
       <class name="nimitacademy.SecondTest"/>
+      <class name="nimitacademy.Apptest"/>
+      <class name="nimitacademy.FirstTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
